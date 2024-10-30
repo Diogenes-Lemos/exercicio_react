@@ -1,0 +1,23 @@
+.calcarea {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    display: flex;
+    width: 60%;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+input {
+    font-size: 30px;
+}
+
+h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
